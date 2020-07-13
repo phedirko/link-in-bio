@@ -17,8 +17,8 @@ Tou can explore API by using [Swagger]() UI. The path is `/swagger`
 #### How to run code
 
 1. make sure you've installed dependencies
-2. from path (link-in-bio) run this commands 
-     ```cd /src/LinkInBio/LinkInBio.Host```
+2. from root path of the repo (link-in-bio) run this commands 
+     ```cd ./src/LinkInBio/LinkInBio.Host```
      and
      ```dotnet run --urls=http://localhost:5001/```
 
