@@ -19,6 +19,7 @@ Tou can explore API by using [Swagger]() UI. The path is `/swagger`
 1. make sure you've installed dependencies
 2. from path (link-in-bio) run this commands 
      ```cd /src/LinkInBio/LinkInBio.Host```
+     and
      ```dotnet run --urls=http://localhost:5001/```
 
 This will start app on **5001** port
